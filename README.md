@@ -3,8 +3,8 @@
 This project will include development from all 5 lift-off projects from https://www.apollographql.com/tutorials/
 Currently, this repo has completed:
 
-[Lift-Off I](https://www.apollographql.com/tutorials/lift-off-part1/) 
-[Lift-Off II](https://www.apollographql.com/tutorials/lift-off-part2/)
+- [Lift-Off I](https://www.apollographql.com/tutorials/lift-off-part1/) 
+- [Lift-Off II](https://www.apollographql.com/tutorials/lift-off-part2/)
 
 ## How to use this repo
 
