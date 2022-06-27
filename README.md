@@ -5,6 +5,7 @@ Currently, this repo has completed:
 
 - [Lift-Off I](https://www.apollographql.com/tutorials/lift-off-part1/) 
 - [Lift-Off II](https://www.apollographql.com/tutorials/lift-off-part2/)
+- [Lift-Off III](https://www.apollographql.com/tutorials/lift-off-part3/)
 
 ## How to use this repo
 
