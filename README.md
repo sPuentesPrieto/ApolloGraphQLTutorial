@@ -6,7 +6,8 @@ Currently, this repo has completed:
 - [Lift-Off I](https://www.apollographql.com/tutorials/lift-off-part1/) 
 - [Lift-Off II](https://www.apollographql.com/tutorials/lift-off-part2/)
 - [Lift-Off III](https://www.apollographql.com/tutorials/lift-off-part3/)
-
+- [Lift-Off IV](https://www.apollographql.com/tutorials/lift-off-part4/)
+- 
 ## How to use this repo
 
 The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
